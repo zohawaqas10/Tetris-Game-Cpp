@@ -52,7 +52,3 @@ The project was created using **Microsoft Visual Studio**.
 3. Select the `.sln` file in the project folder  
 4. Build the project (`Ctrl + Shift + B`)  
 5. Run the project (`Ctrl + F5`)  
-
----
-
-## Project Structure
